@@ -1,0 +1,62 @@
+[
+  {
+    "clg_name": "Indian Institute of Science (IISC) Bangalore College",
+    "clg_code": "CLG_1",
+    "clg_id": "eebc73b2-f291-4039-9e57-3df41579f718",
+    "status": true
+  },
+  {
+    "clg_name": "Indian Institute of Technology Delhi (IITD) College",
+    "clg_code": "CLG_2",
+    "clg_id": "20ed7691-1a9e-40d4-9d13-97f07c5f5bbb",
+    "status": false
+  },
+  {
+    "clg_name": "Indian Institute of Technology Madras (IITM) College",
+    "clg_code": "CLG_3",
+    "clg_id": "f7026577-bb45-454b-a262-a583518a0091",
+    "status": true
+  },
+  {
+    "clg_name": "Indian Institute of Technology Kharagpur (IITKGP) College",
+    "clg_code": "CLG_4",
+    "clg_id": "48350ce6-8a4c-479f-ab9a-a3f3f0bbdb48",
+    "status": false
+  },
+  {
+    "clg_name": "Indian Institute of Technology Kanpur (IITK) College",
+    "clg_code": "CLG_5",
+    "clg_id": "6eb11ee8-955b-46ad-8992-ab33c071bd87",
+    "status": true
+  },
+  {
+    "clg_name": "University of Delhi College",
+    "clg_code": "CLG_6",
+    "clg_id": "b3a180b1-1321-42bc-bfb0-4f2f235bd037",
+    "status": false
+  },
+  {
+    "clg_name": "University of Hyderabad College",
+    "clg_code": "CLG_7",
+    "clg_id": "28d42e43-9415-4ee6-8ef7-efa8fa8c3355",
+    "status": true
+  },
+  {
+    "clg_name": "Indian Institute of Technology Roorkee (IITR) College",
+    "clg_code": "CLG_8",
+    "clg_id": "3af88de4-b497-46af-a9e3-00847ba118c4",
+    "status": false
+  },
+  {
+    "clg_name": "Indian Institute of Technology Guwahati (IITG) College",
+    "clg_code": "CLG_9",
+    "clg_id": "2a25c7a2-a8ea-481a-9c5c-86c16ff81685",
+    "status": true
+  },
+  {
+    "clg_name": "undefined College",
+    "clg_code": "CLG_10",
+    "clg_id": "4fb00cb1-72c4-4bb3-9fe7-1e66f21da4c2",
+    "status": false
+  }
+]

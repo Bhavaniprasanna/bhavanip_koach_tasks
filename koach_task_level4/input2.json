@@ -1,0 +1,352 @@
+[
+   {
+      "grp_name": "CSE",
+      "grp_code": "GRP_1",
+      "grp_id": "16d35898-8a30-4131-8a98-24c957d89f24",
+      "status": true,
+      "clg_id": "eebc73b2-f291-4039-9e57-3df41579f718"
+   },
+   {
+      "grp_name": "MECH",
+      "grp_code": "GRP_2",
+      "grp_id": "b9e22f3f-9cea-4efa-a872-6ffe3383db61",
+      "status": false,
+      "clg_id": "eebc73b2-f291-4039-9e57-3df41579f718"
+   },
+   {
+      "grp_name": "ECE",
+      "grp_code": "GRP_3",
+      "grp_id": "d3c21a8b-6bd0-46f0-a168-5cd0bd65693c",
+      "status": true,
+      "clg_id": "eebc73b2-f291-4039-9e57-3df41579f718"
+   },
+   {
+      "grp_name": "EEE",
+      "grp_code": "GRP_4",
+      "grp_id": "a689f235-b0a9-4b4f-9c67-ba2947c5340a",
+      "status": false,
+      "clg_id": "eebc73b2-f291-4039-9e57-3df41579f718"
+   },
+   {
+      "grp_name": "CIVIL",
+      "grp_code": "GRP_5",
+      "grp_id": "e3f9a184-4ffe-43ad-a77b-b9b225e28cb4",
+      "status": true,
+      "clg_id": "eebc73b2-f291-4039-9e57-3df41579f718"
+   },
+   {
+      "grp_name": "CSE",
+      "grp_code": "GRP_1",
+      "grp_id": "3b344c14-b107-4ea7-ba50-94cd0252623c",
+      "status": true,
+      "clg_id": "20ed7691-1a9e-40d4-9d13-97f07c5f5bbb"
+   },
+   {
+      "grp_name": "MECH",
+      "grp_code": "GRP_2",
+      "grp_id": "86617b7e-641b-4941-8586-5f3e9f155127",
+      "status": false,
+      "clg_id": "20ed7691-1a9e-40d4-9d13-97f07c5f5bbb"
+   },
+   {
+      "grp_name": "ECE",
+      "grp_code": "GRP_3",
+      "grp_id": "4414db92-6d89-4339-a6d6-39b8e1847fda",
+      "status": true,
+      "clg_id": "20ed7691-1a9e-40d4-9d13-97f07c5f5bbb"
+   },
+   {
+      "grp_name": "EEE",
+      "grp_code": "GRP_4",
+      "grp_id": "2652da9d-2ecd-4cc1-99a7-f77be35bb7c7",
+      "status": false,
+      "clg_id": "20ed7691-1a9e-40d4-9d13-97f07c5f5bbb"
+   },
+   {
+      "grp_name": "CIVIL",
+      "grp_code": "GRP_5",
+      "grp_id": "d52e7df8-6aa2-4894-b6bb-690187ab3df1",
+      "status": true,
+      "clg_id": "20ed7691-1a9e-40d4-9d13-97f07c5f5bbb"
+   },
+   {
+      "grp_name": "CSE",
+      "grp_code": "GRP_1",
+      "grp_id": "c3ce1198-d11c-4611-b2fc-f0d1a4684b58",
+      "status": true,
+      "clg_id": "f7026577-bb45-454b-a262-a583518a0091"
+   },
+   {
+      "grp_name": "MECH",
+      "grp_code": "GRP_2",
+      "grp_id": "5f58e080-7565-4c46-9475-3e81d4839cc9",
+      "status": false,
+      "clg_id": "f7026577-bb45-454b-a262-a583518a0091"
+   },
+   {
+      "grp_name": "ECE",
+      "grp_code": "GRP_3",
+      "grp_id": "2d8893e7-34d9-4c4a-b898-a8913c5af6a0",
+      "status": true,
+      "clg_id": "f7026577-bb45-454b-a262-a583518a0091"
+   },
+   {
+      "grp_name": "EEE",
+      "grp_code": "GRP_4",
+      "grp_id": "6dda91d0-608e-453a-bed1-40b9a74e4d3f",
+      "status": false,
+      "clg_id": "f7026577-bb45-454b-a262-a583518a0091"
+   },
+   {
+      "grp_name": "CIVIL",
+      "grp_code": "GRP_5",
+      "grp_id": "e14869da-98c0-4180-9f5d-0f7857241039",
+      "status": true,
+      "clg_id": "f7026577-bb45-454b-a262-a583518a0091"
+   },
+   {
+      "grp_name": "CSE",
+      "grp_code": "GRP_1",
+      "grp_id": "32ded400-05d9-4ad3-8bd0-fbd37641477a",
+      "status": true,
+      "clg_id": "48350ce6-8a4c-479f-ab9a-a3f3f0bbdb48"
+   },
+   {
+      "grp_name": "MECH",
+      "grp_code": "GRP_2",
+      "grp_id": "cb2d02d4-2630-48b3-aaab-bc5e89d80de9",
+      "status": false,
+      "clg_id": "48350ce6-8a4c-479f-ab9a-a3f3f0bbdb48"
+   },
+   {
+      "grp_name": "ECE",
+      "grp_code": "GRP_3",
+      "grp_id": "48e01d39-11c8-4be9-aacc-16392047fd02",
+      "status": true,
+      "clg_id": "48350ce6-8a4c-479f-ab9a-a3f3f0bbdb48"
+   },
+   {
+      "grp_name": "EEE",
+      "grp_code": "GRP_4",
+      "grp_id": "c417520f-ffdf-431c-816c-4debc8943b22",
+      "status": false,
+      "clg_id": "48350ce6-8a4c-479f-ab9a-a3f3f0bbdb48"
+   },
+   {
+      "grp_name": "CIVIL",
+      "grp_code": "GRP_5",
+      "grp_id": "2530f7fd-d52c-48d3-a8c5-67ea92877ccb",
+      "status": true,
+      "clg_id": "48350ce6-8a4c-479f-ab9a-a3f3f0bbdb48"
+   },
+   {
+      "grp_name": "CSE",
+      "grp_code": "GRP_1",
+      "grp_id": "f4901b13-f9db-4fd5-820b-f7b7b8e505e3",
+      "status": true,
+      "clg_id": "6eb11ee8-955b-46ad-8992-ab33c071bd87"
+   },
+   {
+      "grp_name": "MECH",
+      "grp_code": "GRP_2",
+      "grp_id": "5c6f35e6-2d2c-4cf3-8786-f8abc041cfd1",
+      "status": false,
+      "clg_id": "6eb11ee8-955b-46ad-8992-ab33c071bd87"
+   },
+   {
+      "grp_name": "ECE",
+      "grp_code": "GRP_3",
+      "grp_id": "1250e476-f5cd-495e-b518-f53ed68b630c",
+      "status": true,
+      "clg_id": "6eb11ee8-955b-46ad-8992-ab33c071bd87"
+   },
+   {
+      "grp_name": "EEE",
+      "grp_code": "GRP_4",
+      "grp_id": "a51b5b17-5582-4b5c-bb32-e2ad02f7fee3",
+      "status": false,
+      "clg_id": "6eb11ee8-955b-46ad-8992-ab33c071bd87"
+   },
+   {
+      "grp_name": "CIVIL",
+      "grp_code": "GRP_5",
+      "grp_id": "daec23b5-d81f-4131-9b01-772b157096e8",
+      "status": true,
+      "clg_id": "6eb11ee8-955b-46ad-8992-ab33c071bd87"
+   },
+   {
+      "grp_name": "CSE",
+      "grp_code": "GRP_1",
+      "grp_id": "a43e9ef4-167a-4b77-811f-c7587f023881",
+      "status": true,
+      "clg_id": "b3a180b1-1321-42bc-bfb0-4f2f235bd037"
+   },
+   {
+      "grp_name": "MECH",
+      "grp_code": "GRP_2",
+      "grp_id": "2e364191-faab-4156-ad65-73059869880e",
+      "status": false,
+      "clg_id": "b3a180b1-1321-42bc-bfb0-4f2f235bd037"
+   },
+   {
+      "grp_name": "ECE",
+      "grp_code": "GRP_3",
+      "grp_id": "c9105943-a0dd-4790-9003-36ab253d2983",
+      "status": true,
+      "clg_id": "b3a180b1-1321-42bc-bfb0-4f2f235bd037"
+   },
+   {
+      "grp_name": "EEE",
+      "grp_code": "GRP_4",
+      "grp_id": "75a7a4c3-c13d-46f9-ab26-38e7c6f1a4df",
+      "status": false,
+      "clg_id": "b3a180b1-1321-42bc-bfb0-4f2f235bd037"
+   },
+   {
+      "grp_name": "CIVIL",
+      "grp_code": "GRP_5",
+      "grp_id": "b82ef8ee-168e-4bba-bd72-30fba86f3c35",
+      "status": true,
+      "clg_id": "b3a180b1-1321-42bc-bfb0-4f2f235bd037"
+   },
+   {
+      "grp_name": "CSE",
+      "grp_code": "GRP_1",
+      "grp_id": "0e0e5b74-ad34-49ae-a5b3-f9ba2d87d68b",
+      "status": true,
+      "clg_id": "28d42e43-9415-4ee6-8ef7-efa8fa8c3355"
+   },
+   {
+      "grp_name": "MECH",
+      "grp_code": "GRP_2",
+      "grp_id": "032efa6d-b799-4d6b-acb2-e9dd78d79ce3",
+      "status": false,
+      "clg_id": "28d42e43-9415-4ee6-8ef7-efa8fa8c3355"
+   },
+   {
+      "grp_name": "ECE",
+      "grp_code": "GRP_3",
+      "grp_id": "2f8c77ec-85bb-41ca-ba79-82e256000b1c",
+      "status": true,
+      "clg_id": "28d42e43-9415-4ee6-8ef7-efa8fa8c3355"
+   },
+   {
+      "grp_name": "EEE",
+      "grp_code": "GRP_4",
+      "grp_id": "126ab197-078a-49e2-b9ba-60c37117f52b",
+      "status": false,
+      "clg_id": "28d42e43-9415-4ee6-8ef7-efa8fa8c3355"
+   },
+   {
+      "grp_name": "CIVIL",
+      "grp_code": "GRP_5",
+      "grp_id": "da998408-6f93-4adb-8a48-18b3688553d4",
+      "status": true,
+      "clg_id": "28d42e43-9415-4ee6-8ef7-efa8fa8c3355"
+   },
+   {
+      "grp_name": "CSE",
+      "grp_code": "GRP_1",
+      "grp_id": "dfc9470f-ceac-4482-ba46-cbc2d69c651c",
+      "status": true,
+      "clg_id": "3af88de4-b497-46af-a9e3-00847ba118c4"
+   },
+   {
+      "grp_name": "MECH",
+      "grp_code": "GRP_2",
+      "grp_id": "d377985c-14ff-4080-beba-d923be650dbe",
+      "status": false,
+      "clg_id": "3af88de4-b497-46af-a9e3-00847ba118c4"
+   },
+   {
+      "grp_name": "ECE",
+      "grp_code": "GRP_3",
+      "grp_id": "1c7ecff1-297b-4e93-b626-84a22dcd1b36",
+      "status": true,
+      "clg_id": "3af88de4-b497-46af-a9e3-00847ba118c4"
+   },
+   {
+      "grp_name": "EEE",
+      "grp_code": "GRP_4",
+      "grp_id": "25a84812-fe5d-49b5-9c26-4d4f6a18ef0a",
+      "status": false,
+      "clg_id": "3af88de4-b497-46af-a9e3-00847ba118c4"
+   },
+   {
+      "grp_name": "CIVIL",
+      "grp_code": "GRP_5",
+      "grp_id": "6e9f97bf-752e-4e1a-96f2-6a19048a99ab",
+      "status": true,
+      "clg_id": "3af88de4-b497-46af-a9e3-00847ba118c4"
+   },
+   {
+      "grp_name": "CSE",
+      "grp_code": "GRP_1",
+      "grp_id": "9e99f4af-7e4e-4d67-aa65-d49a07c51bfb",
+      "status": true,
+      "clg_id": "2a25c7a2-a8ea-481a-9c5c-86c16ff81685"
+   },
+   {
+      "grp_name": "MECH",
+      "grp_code": "GRP_2",
+      "grp_id": "d2284004-9711-49d7-a1db-4925935ad9d2",
+      "status": false,
+      "clg_id": "2a25c7a2-a8ea-481a-9c5c-86c16ff81685"
+   },
+   {
+      "grp_name": "ECE",
+      "grp_code": "GRP_3",
+      "grp_id": "bb065aa7-72e7-4c34-89ed-67e7a1c96eb7",
+      "status": true,
+      "clg_id": "2a25c7a2-a8ea-481a-9c5c-86c16ff81685"
+   },
+   {
+      "grp_name": "EEE",
+      "grp_code": "GRP_4",
+      "grp_id": "c5dc1a19-5096-4918-ba80-922498dc6700",
+      "status": false,
+      "clg_id": "2a25c7a2-a8ea-481a-9c5c-86c16ff81685"
+   },
+   {
+      "grp_name": "CIVIL",
+      "grp_code": "GRP_5",
+      "grp_id": "180006e7-17e3-47f3-a4bb-52cfc8593d36",
+      "status": true,
+      "clg_id": "2a25c7a2-a8ea-481a-9c5c-86c16ff81685"
+   },
+   {
+      "grp_name": "CSE",
+      "grp_code": "GRP_1",
+      "grp_id": "1b2237c5-19d6-42b5-8744-a217c9a1261d",
+      "status": true,
+      "clg_id": "4fb00cb1-72c4-4bb3-9fe7-1e66f21da4c2"
+   },
+   {
+      "grp_name": "MECH",
+      "grp_code": "GRP_2",
+      "grp_id": "b64b5a6e-432c-4844-bdf3-2e35a75ff0a8",
+      "status": false,
+      "clg_id": "4fb00cb1-72c4-4bb3-9fe7-1e66f21da4c2"
+   },
+   {
+      "grp_name": "ECE",
+      "grp_code": "GRP_3",
+      "grp_id": "bd29efe2-90e1-48a4-b426-a5eeafdbe1f2",
+      "status": true,
+      "clg_id": "4fb00cb1-72c4-4bb3-9fe7-1e66f21da4c2"
+   },
+   {
+      "grp_name": "EEE",
+      "grp_code": "GRP_4",
+      "grp_id": "2a5f19ed-d12b-4f4e-a74e-fed6615f08b6",
+      "status": false,
+      "clg_id": "4fb00cb1-72c4-4bb3-9fe7-1e66f21da4c2"
+   },
+   {
+      "grp_name": "CIVIL",
+      "grp_code": "GRP_5",
+      "grp_id": "effb8d73-b50f-4e44-9607-ecefc5bb5651",
+      "status": true,
+      "clg_id": "4fb00cb1-72c4-4bb3-9fe7-1e66f21da4c2"
+   }
+]
