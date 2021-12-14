@@ -9,4 +9,4 @@
 -> open the ipython file "level 3.ipynb" notebook and run the ipynb file, after running all the cells the corresponding output files will be generated i.e output1, output2, output3 respectively.
 
 # level 4 CRUD Operations on MongoDB
--> open the ipython file "level4.ipynb" notebook and run the ipynb file, this ipython file demonstrates the CRUD operations on MongoDB using the given three input files. \
+-> open the ipython file "level4.ipynb" notebook and run the ipynb file, this ipython file demonstrates the CRUD operations on MongoDB using the given three input files. 
